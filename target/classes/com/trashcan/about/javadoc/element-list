@@ -1,0 +1,6 @@
+module:com.medical.magazinmedical
+com.trashcan.account
+com.trashcan.controllers
+com.trashcan.database
+com.trashcan.filemanager
+com.trashcan.med

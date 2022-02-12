@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4fa2607-a002-46cc-a074-f6c4b2d8b82c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20KDeA3CG7U6PtAfsbhflGJAPer" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/trashcan/med" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.CommentHighlighterCustomTokensSettingsPage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\.idea\libraries" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\src\main\resources\com\trashcan\about" />
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\src\main\resources\com\trashcan\img" />
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\src\main\resources\com\trashcan\med" />
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\src\main\resources\com\trashcan\" />
+      <recent name="C:\Users\adamc\OneDrive - e-uvt.ro\IA Laborator\P III\Proiect\medex\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.trashcan.med" />
+      <recent name="com.medical" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trashcan.med.Main" />
+      <module name="medex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trashcan.med.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.createUserFile (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="medex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileTest" />
+      <option name="METHOD_NAME" value="createUserFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.getNewSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="medex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileTest" />
+      <option name="METHOD_NAME" value="getNewSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.setList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="medex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileTest" />
+      <option name="METHOD_NAME" value="setList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.setMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="medex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileTest" />
+      <option name="METHOD_NAME" value="setMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FileTest.getNewSave" />
+        <item itemvalue="JUnit.FileTest.setMap" />
+        <item itemvalue="JUnit.FileTest.setList" />
+        <item itemvalue="JUnit.FileTest.createUserFile (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4fa2607-a002-46cc-a074-f6c4b2d8b82c" name="Changes" comment="" />
+      <created>1635784478634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635784478634</updated>
+      <workItem from="1635784480214" duration="8674000" />
+      <workItem from="1635795270608" duration="8000" />
+      <workItem from="1637687035178" duration="633000" />
+      <workItem from="1637690058468" duration="2734000" />
+      <workItem from="1637697804049" duration="203000" />
+      <workItem from="1637698028493" duration="1026000" />
+      <workItem from="1637701977705" duration="2596000" />
+      <workItem from="1637739497879" duration="909000" />
+      <workItem from="1638092372826" duration="797000" />
+      <workItem from="1638190595552" duration="13724000" />
+      <workItem from="1638263222636" duration="3235000" />
+      <workItem from="1638267144865" duration="49000" />
+      <workItem from="1638267214643" duration="33000" />
+      <workItem from="1638267261526" duration="336000" />
+      <workItem from="1638267627635" duration="106000" />
+      <workItem from="1638267771534" duration="956000" />
+      <workItem from="1638272627503" duration="2019000" />
+      <workItem from="1638278679421" duration="1320000" />
+      <workItem from="1638280044827" duration="1551000" />
+      <workItem from="1638281626563" duration="464000" />
+      <workItem from="1638282097011" duration="7017000" />
+      <workItem from="1638304057590" duration="216000" />
+      <workItem from="1638304562864" duration="1552000" />
+      <workItem from="1638308682528" duration="637000" />
+      <workItem from="1638351564145" duration="441000" />
+      <workItem from="1638364487589" duration="3010000" />
+      <workItem from="1638371504024" duration="9140000" />
+      <workItem from="1638387215511" duration="1802000" />
+      <workItem from="1638438688939" duration="4000" />
+      <workItem from="1638438836364" duration="967000" />
+      <workItem from="1638446986429" duration="10052000" />
+      <workItem from="1638462808337" duration="1968000" />
+      <workItem from="1638465438399" duration="7346000" />
+      <workItem from="1638489409438" duration="1499000" />
+      <workItem from="1638540324212" duration="13508000" />
+      <workItem from="1638559670680" duration="2000" />
+      <workItem from="1638566229379" duration="72000" />
+      <workItem from="1638622377836" duration="183000" />
+      <workItem from="1638622639557" duration="32000" />
+      <workItem from="1638706448543" duration="229000" />
+      <workItem from="1638953100440" duration="41000" />
+      <workItem from="1639052998329" duration="4346000" />
+      <workItem from="1639068440198" duration="2000" />
+      <workItem from="1639088172703" duration="2000" />
+      <workItem from="1639152880107" duration="2507000" />
+      <workItem from="1639214396564" duration="4732000" />
+      <workItem from="1639254097566" duration="263000" />
+      <workItem from="1639321513414" duration="420000" />
+      <workItem from="1639335651648" duration="67000" />
+      <workItem from="1639338115792" duration="1230000" />
+      <workItem from="1639396781179" duration="4000" />
+      <workItem from="1639406106185" duration="6817000" />
+      <workItem from="1639415634768" duration="6434000" />
+      <workItem from="1639424533313" duration="3010000" />
+      <workItem from="1639476395399" duration="2000" />
+      <workItem from="1639487277937" duration="5281000" />
+      <workItem from="1639495283564" duration="172000" />
+      <workItem from="1639505189531" duration="14546000" />
+      <workItem from="1639523037487" duration="408000" />
+      <workItem from="1639553844971" duration="31000" />
+      <workItem from="1639554734966" duration="1117000" />
+      <workItem from="1639556785486" duration="172000" />
+      <workItem from="1639593696798" duration="532000" />
+      <workItem from="1639597516453" duration="9000" />
+      <workItem from="1639692892346" duration="3001000" />
+      <workItem from="1639696645691" duration="5755000" />
+      <workItem from="1639734823194" duration="5654000" />
+      <workItem from="1639741933236" duration="4500000" />
+      <workItem from="1639747313042" duration="614000" />
+      <workItem from="1639753999950" duration="722000" />
+      <workItem from="1639756925945" duration="358000" />
+      <workItem from="1639761236830" duration="4072000" />
+      <workItem from="1639765819790" duration="3403000" />
+      <workItem from="1639784931163" duration="2530000" />
+      <workItem from="1639824229437" duration="4224000" />
+      <workItem from="1639835989672" duration="1230000" />
+      <workItem from="1639851043626" duration="9723000" />
+      <workItem from="1639919942093" duration="898000" />
+      <workItem from="1639935649750" duration="2205000" />
+      <workItem from="1639938636457" duration="2196000" />
+      <workItem from="1640003089580" duration="3466000" />
+      <workItem from="1640012243580" duration="2836000" />
+      <workItem from="1640015632826" duration="10267000" />
+      <workItem from="1640076462104" duration="21238000" />
+      <workItem from="1640171869756" duration="10278000" />
+      <workItem from="1640191635084" duration="780000" />
+      <workItem from="1640195509978" duration="5067000" />
+      <workItem from="1640253751867" duration="41000" />
+      <workItem from="1640264963282" duration="2570000" />
+      <workItem from="1640292185627" duration="4130000" />
+      <workItem from="1640304925521" duration="1845000" />
+      <workItem from="1640338540738" duration="19001000" />
+      <workItem from="1640372785004" duration="399000" />
+      <workItem from="1640385559117" duration="3371000" />
+      <workItem from="1640523629446" duration="393000" />
+      <workItem from="1640602466693" duration="50000" />
+      <workItem from="1641070695734" duration="2738000" />
+      <workItem from="1641122297450" duration="409000" />
+      <workItem from="1641221579764" duration="78000" />
+      <workItem from="1641222128416" duration="109000" />
+      <workItem from="1641222973330" duration="8000" />
+      <workItem from="1641247741626" duration="1913000" />
+      <workItem from="1641291039075" duration="1987000" />
+      <workItem from="1641324720587" duration="2190000" />
+      <workItem from="1641331633819" duration="1000" />
+      <workItem from="1641368732259" duration="2000" />
+      <workItem from="1641639010018" duration="5577000" />
+      <workItem from="1641665204279" duration="8241000" />
+      <workItem from="1641734226814" duration="5826000" />
+      <workItem from="1641740392211" duration="15818000" />
+      <workItem from="1641760451823" duration="36000" />
+      <workItem from="1641807769423" duration="17410000" />
+      <workItem from="1641894749200" duration="11273000" />
+      <workItem from="1641973208008" duration="261000" />
+      <workItem from="1642107686095" duration="792000" />
+      <workItem from="1642108918322" duration="1506000" />
+      <workItem from="1642285873162" duration="301000" />
+      <workItem from="1642347224717" duration="13131000" />
+      <workItem from="1642419412214" duration="4495000" />
+      <workItem from="1642448389397" duration="3000" />
+      <workItem from="1642598187217" duration="1188000" />
+      <workItem from="1642606918563" duration="11891000" />
+      <workItem from="1642679875643" duration="439000" />
+      <workItem from="1642680367739" duration="56000" />
+      <workItem from="1642680531562" duration="1312000" />
+      <workItem from="1642687377295" duration="23565000" />
+      <workItem from="1642848101708" duration="3000" />
+      <workItem from="1642940316492" duration="9617000" />
+      <workItem from="1643327326064" duration="3000" />
+      <workItem from="1643663676414" duration="1000" />
+      <workItem from="1643711352817" duration="6157000" />
+      <workItem from="1643729262804" duration="19786000" />
+      <workItem from="1643763219962" duration="1020000" />
+      <workItem from="1643838996519" duration="597000" />
+      <workItem from="1643843997545" duration="1382000" />
+      <workItem from="1643919716208" duration="10889000" />
+      <workItem from="1643934718659" duration="181000" />
+      <workItem from="1643934922004" duration="12000" />
+      <workItem from="1643983737663" duration="22381000" />
+      <workItem from="1644018759856" duration="595000" />
+      <workItem from="1644062288116" duration="26614000" />
+      <workItem from="1644094001944" duration="3000" />
+      <workItem from="1644098425256" duration="656000" />
+      <workItem from="1644099934998" duration="14000" />
+      <workItem from="1644126343068" duration="1201000" />
+      <workItem from="1644127827261" duration="88000" />
+      <workItem from="1644128249874" duration="1397000" />
+      <workItem from="1644129959602" duration="1000" />
+      <workItem from="1644136341263" duration="4726000" />
+      <workItem from="1644142001346" duration="244000" />
+      <workItem from="1644142369498" duration="248000" />
+      <workItem from="1644142742167" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

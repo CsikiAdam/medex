@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.FlowPane?>
+
+<ScrollPane fx:id="savedScrollPane" prefHeight="807.0" prefWidth="1090.0" style="-fx-border-color: #4f6f8c;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.trashcan.controllers.SavedProductsController">
+   <content>
+      <FlowPane fx:id="savedFlowPane" prefHeight="807.0" prefWidth="1073.0" style="-fx-background-color: #ffffff;" />
+   </content>
+</ScrollPane>
